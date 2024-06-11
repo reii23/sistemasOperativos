@@ -1,0 +1,200 @@
+Registro 1: Evento de inicio
+Registro 2: Información - Proceso completado
+Registro 3: Información - Proceso completado
+Registro 4: Información - Proceso completado
+Registro 5: Advertencia - Memoria baja
+Registro 6: Evento de inicio
+Registro 7: Advertencia - Memoria baja
+Registro 8: Error - Error de lectura
+Registro 9: Evento de inicio
+Registro 10: Evento de inicio
+Registro 11: Evento de inicio
+Registro 12: Error - Error de lectura
+Registro 13: Error - Error de lectura
+Registro 14: Evento de inicio
+Registro 15: Información - Proceso completado
+Registro 16: Error - Error de lectura
+Registro 17: Información - Proceso completado
+Registro 18: Error - Fallo en la conexión
+Registro 19: Advertencia - Memoria baja
+Registro 20: Información - Proceso completado
+Registro 21: Advertencia - Memoria baja
+Registro 22: Información - Proceso completado
+Registro 23: Información - Proceso completado
+Registro 24: Error - Error de lectura
+Registro 25: Evento de inicio
+Registro 26: Advertencia - Memoria baja
+Registro 27: Evento de inicio
+Registro 28: Evento de inicio
+Registro 29: Advertencia - Memoria baja
+Registro 30: Advertencia - Memoria baja
+Registro 31: Error - Error de lectura
+Registro 32: Advertencia - Memoria baja
+Registro 33: Evento de inicio
+Registro 34: Error - Error de lectura
+Registro 35: Evento de inicio
+Registro 36: Advertencia - Memoria baja
+Registro 37: Evento de inicio
+Registro 38: Evento de inicio
+Registro 39: Información - Proceso completado
+Registro 40: Evento de inicio
+Registro 41: Evento de inicio
+Registro 42: Información - Proceso completado
+Registro 43: Información - Proceso completado
+Registro 44: Evento de inicio
+Registro 45: Evento de inicio
+Registro 46: Error - Error de lectura
+Registro 47: Evento de inicio
+Registro 48: Información - Proceso completado
+Registro 49: Evento de inicio
+Registro 50: Advertencia - Memoria baja
+Registro 51: Evento de inicio
+Registro 52: Evento de inicio
+Registro 53: Error - Fallo en la conexión
+Registro 54: Información - Proceso completado
+Registro 55: Información - Proceso completado
+Registro 56: Evento de inicio
+Registro 57: Evento de inicio
+Registro 58: Error - Fallo en la conexión
+Registro 59: Evento de inicio
+Registro 60: Información - Proceso completado
+Registro 61: Error - Error de lectura
+Registro 62: Evento de inicio
+Registro 63: Error - Error de lectura
+Registro 64: Información - Proceso completado
+Registro 65: Información - Proceso completado
+Registro 66: Advertencia - Memoria baja
+Registro 67: Evento de inicio
+Registro 68: Información - Proceso completado
+Registro 69: Evento de inicio
+Registro 70: Error - Error de lectura
+Registro 71: Evento de inicio
+Registro 72: Error - Error de lectura
+Registro 73: Evento de inicio
+Registro 74: Evento de inicio
+Registro 75: Error - Error de lectura
+Registro 76: Información - Proceso completado
+Registro 77: Advertencia - Memoria baja
+Registro 78: Evento de inicio
+Registro 79: Advertencia - Memoria baja
+Registro 80: Información - Proceso completado
+Registro 81: Información - Proceso completado
+Registro 82: Información - Proceso completado
+Registro 83: Error - Error de lectura
+Registro 84: Evento de inicio
+Registro 85: Error - Error de lectura
+Registro 86: Error - Error de lectura
+Registro 87: Información - Proceso completado
+Registro 88: Error - Error de lectura
+Registro 89: Evento de inicio
+Registro 90: Evento de inicio
+Registro 91: Evento de inicio
+Registro 92: Advertencia - Memoria baja
+Registro 93: Evento de inicio
+Registro 94: Evento de inicio
+Registro 95: Información - Proceso completado
+Registro 96: Error - Fallo en la conexión
+Registro 97: Información - Proceso completado
+Registro 98: Evento de inicio
+Registro 99: Evento de inicio
+Registro 100: Evento de inicio
+Registro 101: Evento de inicio
+Registro 102: Información - Proceso completado
+Registro 103: Información - Proceso completado
+Registro 104: Información - Proceso completado
+Registro 105: Advertencia - Memoria baja
+Registro 106: Evento de inicio
+Registro 107: Advertencia - Memoria baja
+Registro 108: Error - Error de lectura
+Registro 109: Evento de inicio
+Registro 110: Evento de inicio
+Registro 111: Evento de inicio
+Registro 112: Error - Error de lectura
+Registro 113: Error - Error de lectura
+Registro 114: Evento de inicio
+Registro 115: Información - Proceso completado
+Registro 116: Error - Error de lectura
+Registro 117: Información - Proceso completado
+Registro 118: Error - Fallo en la conexión
+Registro 119: Advertencia - Memoria baja
+Registro 120: Información - Proceso completado
+Registro 121: Advertencia - Memoria baja
+Registro 122: Información - Proceso completado
+Registro 123: Información - Proceso completado
+Registro 124: Error - Error de lectura
+Registro 125: Evento de inicio
+Registro 126: Advertencia - Memoria baja
+Registro 127: Evento de inicio
+Registro 128: Evento de inicio
+Registro 129: Advertencia - Memoria baja
+Registro 130: Advertencia - Memoria baja
+Registro 131: Error - Error de lectura
+Registro 132: Advertencia - Memoria baja
+Registro 133: Evento de inicio
+Registro 134: Error - Error de lectura
+Registro 135: Evento de inicio
+Registro 136: Advertencia - Memoria baja
+Registro 137: Evento de inicio
+Registro 138: Evento de inicio
+Registro 139: Información - Proceso completado
+Registro 140: Evento de inicio
+Registro 141: Evento de inicio
+Registro 142: Información - Proceso completado
+Registro 143: Información - Proceso completado
+Registro 144: Evento de inicio
+Registro 145: Evento de inicio
+Registro 146: Error - Error de lectura
+Registro 147: Evento de inicio
+Registro 148: Información - Proceso completado
+Registro 149: Evento de inicio
+Registro 150: Advertencia - Memoria baja
+Registro 151: Evento de inicio
+Registro 152: Evento de inicio
+Registro 153: Error - Fallo en la conexión
+Registro 154: Información - Proceso completado
+Registro 155: Información - Proceso completado
+Registro 156: Evento de inicio
+Registro 157: Evento de inicio
+Registro 158: Error - Fallo en la conexión
+Registro 159: Evento de inicio
+Registro 160: Información - Proceso completado
+Registro 161: Error - Error de lectura
+Registro 162: Evento de inicio
+Registro 163: Error - Error de lectura
+Registro 164: Información - Proceso completado
+Registro 165: Información - Proceso completado
+Registro 166: Advertencia - Memoria baja
+Registro 167: Evento de inicio
+Registro 168: Información - Proceso completado
+Registro 169: Evento de inicio
+Registro 170: Error - Error de lectura
+Registro 171: Evento de inicio
+Registro 172: Error - Error de lectura
+Registro 173: Evento de inicio
+Registro 174: Evento de inicio
+Registro 175: Error - Error de lectura
+Registro 176: Información - Proceso completado
+Registro 177: Advertencia - Memoria baja
+Registro 178: Evento de inicio
+Registro 179: Advertencia - Memoria baja
+Registro 180: Información - Proceso completado
+Registro 181: Información - Proceso completado
+Registro 182: Información - Proceso completado
+Registro 183: Error - Error de lectura
+Registro 184: Evento de inicio
+Registro 185: Error - Error de lectura
+Registro 186: Error - Error de lectura
+Registro 187: Información - Proceso completado
+Registro 188: Error - Error de lectura
+Registro 189: Evento de inicio
+Registro 190: Evento de inicio
+Registro 191: Evento de inicio
+Registro 192: Advertencia - Memoria baja
+Registro 193: Evento de inicio
+Registro 194: Evento de inicio
+Registro 195: Información - Proceso completado
+Registro 196: Error - Fallo en la conexión
+Registro 197: Información - Proceso completado
+Registro 198: Evento de inicio
+Registro 199: Evento de inicio
+Registro 200: Evento de inicio

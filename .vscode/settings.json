@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "wait.h": "c"
+        "wait.h": "c",
+        "stdio.h": "c",
+        "prelab2": "c"
     }
 }
