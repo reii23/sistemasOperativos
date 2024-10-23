@@ -1,4 +1,4 @@
-# Laboratorios de Sistemas Operativos 1/2024
+# Laboratorios de Sistemas Operativos 1/2024 + Otros programas
 
 - Autor: Reinaldo Pacheco Parra
 - Sección: C-3 13212-0 
